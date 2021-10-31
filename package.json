@@ -1,0 +1,8 @@
+{
+  "name": "process-env-argv",
+  "version": "1.0.5",
+  "description": "Get commands from `argv` or `env` in `process` by specifying the formatting",
+  "main": "index.js",
+  "author": "joenix",
+  "license": "MIT"
+}
